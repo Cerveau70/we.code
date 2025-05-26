@@ -1,0 +1,7 @@
+,produit_id,nom,categorie,stock,prix_achat,prix_vente
+0,1,Savon,Hygiène,120.0,200,500
+1,2,Shampoing,Hygiène,,600,1200
+2,3,Riz,Alimentation,300.0,350,550
+3,4,Huile,Alimentation,10.0,700,800
+4,5,Stylo,Papeterie,,100,150
+5,6,Cahier,Papeterie,5.0,200,300
